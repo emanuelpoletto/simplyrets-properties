@@ -22,6 +22,7 @@
   "dependencies": {
     "body-parser": "1.20.2",
     "express": "4.18.2",
+    "express-validator": "^7.2.0",
     "reflect-metadata": "0.1.13",
     "sqlite3": "5.1.6",
     "typeorm": "0.3.12"
@@ -37,7 +38,9 @@
     "rimraf": "5.0.5",
     "supertest": "6.3.3",
     "ts-jest": "29.0.5",
+    "ts-node": "^10.9.2",
     "tsx": "4.7.0",
     "typescript": "5.0.2"
-  }
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }
