@@ -1,0 +1,5 @@
+export const PAGINATION_SKIP_DEFAULT = 0;
+export const PAGINATION_TAKE_DEFAULT = 10;
+export const PAGINATION_SKIP_MIN = 0;
+export const PAGINATION_TAKE_MIN = 1;
+export const PAGINATION_TAKE_MAX = 100;
